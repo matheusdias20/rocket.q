@@ -100,6 +100,12 @@ button.red,
   color: var(--white);
 }
 
+button.blue,
+.button.blue {
+  background: var(--blue);
+  color: var(--white);
+}
+
 .content {
   width: 100%;
   margin: 0 auto;
